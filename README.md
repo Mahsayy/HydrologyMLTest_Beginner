@@ -73,45 +73,6 @@ Streamflow Prediction
 Model Evaluation
 ```
 
----
-
-## Technologies Used
-
-* Python
-* Pandas
-* NumPy
-* Scikit-learn
-* XGBoost
-* Matplotlib
-* Jupyter Notebook
-
----
-
-## Results
-
-The implemented models were able to capture the relationship between rainfall inputs and runoff responses.
-
-The results demonstrate the potential of machine learning approaches as data-driven tools for hydrological prediction and provide a foundation for further development using larger datasets, additional hydrological variables, and more advanced modeling approaches.
-
-*(Add your performance plots and metrics here)*
-
-Example:
-
-![Model Performance](figures/model_performance.png)
-
----
-
-## Future Improvements
-
-Possible improvements for future studies include:
-
-* Incorporating additional meteorological variables (temperature, evaporation, humidity, etc.)
-* Using multiple rainfall stations
-* Applying time-series approaches such as LSTM networks
-* Comparing machine learning models with physically based hydrological models
-* Performing feature importance analysis
-
----
 
 ## Author
 
